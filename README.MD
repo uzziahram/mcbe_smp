@@ -19,5 +19,5 @@ Unfortunately there's no "Free" version of this in windows.
 ### Linux
 install the minecraft bedrock launcher from flatpak
 ##
-wow
+    bash sudo
 <!-- <pre>bash sudo flatpak install flathub io.mrarm.mcpelauncher        </pre> -->
