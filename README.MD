@@ -5,8 +5,14 @@ even if addons(soon) are in here and it's also an experimental world! so some fe
 
 ## Joining the server
 * Download Zerotier on your device
-* Join network and enter this Network ID "233ccaac2750a88e" and wait for "MCBE SMP" to show up
-* After connecting, go to minecraft and enter these credentials IP:10.147.17.203, Port:19132
+* Join network and enter the Network ID and wait for "MCBE SMP" to show up
+## Network ID
+        233ccaac2750a88e
+* After connecting, go to minecraft and enter The IP address and Port of the server
+## IP address
+        10.147.17.203
+## Port
+        19132
 * enjoy!
 * just don't forget to turn ZeroTier on if you're on iOS or Android.
 
@@ -17,6 +23,7 @@ even if addons(soon) are in here and it's also an experimental world! so some fe
 Unfortunately there's no "Free" version of this in windows.
 
 ### Linux
+prerequisite: **flatpak**
 install the minecraft bedrock launcher from flatpak
 ##
         sudo flatpak install flathub io.mrarm.mcpelauncher
@@ -24,3 +31,7 @@ install the minecraft bedrock launcher from flatpak
 
 ### MacOS
 IDK yet lol
+
+
+# A few things to know
+the server can't be online at all times. When the owner is at home or is relaxing in his humble abode(apartment/home), The server should run as intended
