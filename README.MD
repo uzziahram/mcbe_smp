@@ -6,6 +6,7 @@ even if addons(soon) are in here and it's also an experimental world! so some fe
 ## Joining the server
 * Download Zerotier on your device
 * Join network and enter the Network ID and wait for "MCBE SMP" to show up
+<a href = "10.147.17.203:5500/status/index.html">Check Status</a>
 #### Network ID
         233ccaac2750a88e
 * After connecting, go to minecraft and enter The IP address and Port of the server
