@@ -6,12 +6,12 @@ even if addons(soon) are in here and it's also an experimental world! so some fe
 ## Joining the server
 * Download Zerotier on your device
 * Join network and enter the Network ID and wait for "MCBE SMP" to show up
-## Network ID
+#### Network ID
         233ccaac2750a88e
 * After connecting, go to minecraft and enter The IP address and Port of the server
-## IP address
+#### IP address
         10.147.17.203
-## Port
+#### Port
         19132
 * enjoy!
 * just don't forget to turn ZeroTier on if you're on iOS or Android.
