@@ -4,9 +4,9 @@ players can deal with techniques, automated farms and even exploits! cheating is
 even if addons(soon) are in here and it's also an experimental world! so some features will be there!
 
 ## Joining the server
-* Download Zerotier on your device
+* Download [Zerotier](https://www.zerotier.com) on your device
 * Join network and enter the Network ID and wait for "MCBE SMP" to show up
-* You can Check the status of the server using this [Link](http://10.147.17.203:5500/status/index.html).
+* You can Check the status of the server using this [Link](http://10.147.17.203:5500/status/index.html) while connected to ZeroTier
 
 #### Network ID
         233ccaac2750a88e
@@ -36,4 +36,5 @@ IDK yet lol
 
 
 # A few things to know
-the server can't be online at all times. When the owner is at home or is relaxing in his humble abode(apartment/home), The server should run as intended
+* the server can't be online at all times. When the owner is at home or is relaxing in his humble abode(apartment/home), The server should run as intended
+* The server also has a 30 minute automatic backup, and when the backup reaches 2 days(48 hours), it will get deleted.
