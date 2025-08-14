@@ -6,7 +6,7 @@ even if addons(soon) are in here and it's also an experimental world! so some fe
 ## Joining the server
 * Download Zerotier on your device
 * Join network and enter the Network ID and wait for "MCBE SMP" to show up
-* You can Check the status of the server using this [Link](10.147.17.203:5500/status/index.html).
+* You can Check the status of the server using this [Link](https://10.147.17.203:5500/status/index.html).
 
 #### Network ID
         233ccaac2750a88e
